@@ -1,0 +1,180 @@
+2024-12-16 19:30:37,472 - INFO - Début d'un cycle de surveillance...
+2024-12-16 19:30:43,676 - INFO - raoul.le.blanc274 n'est pas en live.
+2024-12-16 19:30:43,677 - INFO - Pause de 10 secondes
+2024-12-16 19:30:57,452 - INFO - hodakotv n'est pas en live.
+2024-12-16 19:30:57,453 - INFO - Pause de 10 secondes
+2024-12-16 19:31:10,128 - INFO - souklevivi_gemy n'est pas en live.
+2024-12-16 19:31:10,137 - INFO - Pause de 10 secondes
+2024-12-16 19:31:22,173 - INFO - eza_choco8 n'est pas en live.
+2024-12-16 19:31:22,173 - INFO - Pause de 10 secondes
+2024-12-16 19:31:34,690 - INFO - pagbodjan n'est pas en live.
+2024-12-16 19:31:34,692 - INFO - Pause de 10 secondes
+2024-12-16 19:31:47,034 - INFO - ghettovi23 n'est pas en live.
+2024-12-16 19:31:47,035 - INFO - Pause de 10 secondes
+2024-12-16 19:31:59,508 - INFO - togbevikpesse2 n'est pas en live.
+2024-12-16 19:31:59,508 - INFO - Pause de 10 secondes
+2024-12-16 19:32:09,512 - INFO - Fin du cycle. Pause avant la prochaine vérification.
+2024-12-16 22:56:59,972 - INFO - Début d'un cycle de surveillance...
+2024-12-16 22:57:04,581 - INFO - raoul.le.blanc274 n'est pas en live.
+2024-12-16 22:57:04,581 - INFO - Pause de 10 secondes
+2024-12-16 22:57:15,790 - INFO - aristolebledardaklaaa n'est pas en live.
+2024-12-16 22:57:15,791 - INFO - Pause de 10 secondes
+2024-12-20 04:01:19,036 - INFO - Downloading chromedriver (131.0.6778.204)...
+2024-12-20 04:17:16,264 - INFO - Téléchargement et vérification de ChromeDriver...
+2024-12-20 04:17:17,413 - INFO - Downloading chromedriver (131.0.6778.204)...
+2024-12-20 04:59:50,798 - INFO - ====== WebDriver manager ======
+2024-12-20 04:59:52,993 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 04:59:54,940 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 04:59:55,328 - INFO - There is no [linux64] chromedriver "131.0.6778.204" for browser chromium "131.0.6778" in cache
+2024-12-20 04:59:55,328 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 04:59:56,065 - INFO - WebDriver version 131.0.6778.204 selected
+2024-12-20 04:59:56,071 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 04:59:56,072 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 04:59:56,465 - INFO - Driver downloading response is 200
+2024-12-20 04:59:58,715 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 04:59:59,524 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/131.0.6778.204]
+2024-12-20 05:04:28,172 - INFO - ====== WebDriver manager ======
+2024-12-20 05:04:29,102 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:04:29,507 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:04:29,782 - INFO - There is no [linux64] chromedriver "131.0.6778.204" for browser chromium "131.0.6778" in cache
+2024-12-20 05:04:29,782 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:04:30,460 - INFO - WebDriver version 131.0.6778.204 selected
+2024-12-20 05:04:30,465 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 05:04:30,465 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 05:04:30,873 - INFO - Driver downloading response is 200
+2024-12-20 05:04:33,035 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:04:33,624 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/131.0.6778.204]
+2024-12-20 05:11:16,722 - INFO - ====== WebDriver manager ======
+2024-12-20 05:11:17,080 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:11:17,602 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:11:17,877 - INFO - There is no [linux64] chromedriver "131.0.6778.204" for browser chromium "131.0.6778" in cache
+2024-12-20 05:11:17,879 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:11:18,931 - INFO - WebDriver version 131.0.6778.204 selected
+2024-12-20 05:11:18,935 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 05:11:18,935 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 05:11:19,383 - INFO - Driver downloading response is 200
+2024-12-20 05:11:22,105 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:11:23,137 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/131.0.6778.204]
+2024-12-20 05:12:03,238 - INFO - ====== WebDriver manager ======
+2024-12-20 05:12:03,557 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:12:04,168 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:12:04,713 - INFO - There is no [linux64] chromedriver "131.0.6778.204" for browser chromium "131.0.6778" in cache
+2024-12-20 05:12:04,713 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:12:05,663 - INFO - WebDriver version 131.0.6778.204 selected
+2024-12-20 05:12:05,667 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 05:12:05,667 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/linux64/chromedriver-linux64.zip
+2024-12-20 05:12:06,028 - INFO - Driver downloading response is 200
+2024-12-20 05:12:08,121 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:12:08,811 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/131.0.6778.204]
+2024-12-20 05:12:32,672 - INFO - ====== WebDriver manager ======
+2024-12-20 05:12:33,654 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:12:33,930 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:12:34,230 - INFO - Driver [/root/.wdm/drivers/chromedriver/linux64/131.0.6778.204/chromedriver-linux64/chromedriver] found in cache
+2024-12-20 05:13:06,896 - INFO - ====== WebDriver manager ======
+2024-12-20 05:13:07,285 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:13:07,798 - INFO - Get LATEST chromedriver version for chromium
+2024-12-20 05:13:08,070 - INFO - Driver [/root/.wdm/drivers/chromedriver/linux64/131.0.6778.204/chromedriver-linux64/chromedriver] found in cache
+2024-12-20 05:43:16,717 - INFO - Début d'un cycle de surveillance...
+2024-12-20 05:43:16,720 - INFO - Lancement de l'enregistrement pour raoul.le.blanc274.
+2024-12-20 05:43:16,722 - INFO - L'enregistrement du live de raoul.le.blanc274 a commencé (PID: 7).
+2024-12-20 05:43:16,722 - INFO - Pause de 10 secondes
+2024-12-20 05:43:26,725 - INFO - Lancement de l'enregistrement pour aristolebledardaklaaa.
+2024-12-20 05:43:26,732 - INFO - L'enregistrement du live de aristolebledardaklaaa a commencé (PID: 8).
+2024-12-20 05:43:26,733 - INFO - Pause de 10 secondes
+2024-12-20 05:43:36,735 - INFO - Lancement de l'enregistrement pour hodakotv.
+2024-12-20 05:43:36,741 - INFO - L'enregistrement du live de hodakotv a commencé (PID: 9).
+2024-12-20 05:43:36,742 - INFO - Pause de 10 secondes
+2024-12-20 05:43:46,745 - INFO - Lancement de l'enregistrement pour souklevivi_gemy.
+2024-12-20 05:43:46,750 - INFO - L'enregistrement du live de souklevivi_gemy a commencé (PID: 10).
+2024-12-20 05:43:46,751 - INFO - Pause de 10 secondes
+2024-12-20 05:43:56,754 - INFO - Lancement de l'enregistrement pour eza_choco8.
+2024-12-20 05:43:56,768 - INFO - L'enregistrement du live de eza_choco8 a commencé (PID: 11).
+2024-12-20 05:43:56,768 - INFO - Pause de 10 secondes
+2024-12-20 05:44:06,770 - INFO - Lancement de l'enregistrement pour pagbodjan.
+2024-12-20 05:44:06,779 - INFO - L'enregistrement du live de pagbodjan a commencé (PID: 12).
+2024-12-20 05:44:06,780 - INFO - Pause de 10 secondes
+2024-12-20 05:44:16,783 - INFO - Lancement de l'enregistrement pour ghettovi23.
+2024-12-20 05:44:16,791 - INFO - L'enregistrement du live de ghettovi23 a commencé (PID: 13).
+2024-12-20 05:44:16,792 - INFO - Pause de 10 secondes
+2024-12-20 05:44:26,794 - INFO - Lancement de l'enregistrement pour togbevikpesse2.
+2024-12-20 05:44:26,797 - INFO - L'enregistrement du live de togbevikpesse2 a commencé (PID: 14).
+2024-12-20 05:44:26,798 - INFO - Pause de 10 secondes
+2024-12-20 05:44:36,801 - INFO - Fin du cycle. Pause avant la prochaine vérification.
+2024-12-20 05:47:04,808 - INFO - Début d'un cycle de surveillance...
+2024-12-20 05:47:04,814 - INFO - Lancement de l'enregistrement pour raoul.le.blanc274.
+2024-12-20 05:47:04,821 - INFO - L'enregistrement du live de raoul.le.blanc274 a commencé (PID: 15).
+2024-12-20 05:47:04,822 - INFO - Pause de 10 secondes
+2024-12-20 05:47:14,824 - INFO - Lancement de l'enregistrement pour aristolebledardaklaaa.
+2024-12-20 05:47:14,835 - INFO - L'enregistrement du live de aristolebledardaklaaa a commencé (PID: 16).
+2024-12-20 05:47:14,835 - INFO - Pause de 10 secondes
+2024-12-20 05:47:24,838 - INFO - Lancement de l'enregistrement pour hodakotv.
+2024-12-20 05:47:24,842 - INFO - L'enregistrement du live de hodakotv a commencé (PID: 17).
+2024-12-20 05:47:24,844 - INFO - Pause de 10 secondes
+2024-12-20 05:47:34,846 - INFO - Lancement de l'enregistrement pour souklevivi_gemy.
+2024-12-20 05:47:34,855 - INFO - L'enregistrement du live de souklevivi_gemy a commencé (PID: 18).
+2024-12-20 05:47:34,855 - INFO - Pause de 10 secondes
+2024-12-20 05:47:44,857 - INFO - Lancement de l'enregistrement pour eza_choco8.
+2024-12-20 05:47:44,864 - INFO - L'enregistrement du live de eza_choco8 a commencé (PID: 19).
+2024-12-20 05:47:44,865 - INFO - Pause de 10 secondes
+2024-12-20 05:47:54,918 - INFO - Lancement de l'enregistrement pour pagbodjan.
+2024-12-20 05:47:54,933 - INFO - L'enregistrement du live de pagbodjan a commencé (PID: 20).
+2024-12-20 05:47:54,937 - INFO - Pause de 10 secondes
+2024-12-20 05:48:04,941 - INFO - Lancement de l'enregistrement pour ghettovi23.
+2024-12-20 05:48:04,947 - INFO - L'enregistrement du live de ghettovi23 a commencé (PID: 21).
+2024-12-20 05:48:04,948 - INFO - Pause de 10 secondes
+2024-12-20 05:48:14,949 - INFO - Lancement de l'enregistrement pour togbevikpesse2.
+2024-12-20 05:48:14,957 - INFO - L'enregistrement du live de togbevikpesse2 a commencé (PID: 22).
+2024-12-20 05:48:14,957 - INFO - Pause de 10 secondes
+2024-12-20 05:48:24,969 - INFO - Fin du cycle. Pause avant la prochaine vérification.
+2024-12-20 05:50:41,008 - INFO - Début d'un cycle de surveillance...
+2024-12-20 05:50:41,044 - INFO - Lancement de l'enregistrement pour raoul.le.blanc274.
+2024-12-20 05:50:41,096 - INFO - L'enregistrement du live de raoul.le.blanc274 a commencé (PID: 23).
+2024-12-20 05:50:41,098 - INFO - Pause de 10 secondes
+2024-12-20 05:50:51,105 - INFO - Lancement de l'enregistrement pour aristolebledardaklaaa.
+2024-12-20 05:50:51,110 - INFO - L'enregistrement du live de aristolebledardaklaaa a commencé (PID: 24).
+2024-12-20 05:50:51,111 - INFO - Pause de 10 secondes
+2024-12-20 05:51:01,114 - INFO - Lancement de l'enregistrement pour hodakotv.
+2024-12-20 05:51:01,121 - INFO - L'enregistrement du live de hodakotv a commencé (PID: 25).
+2024-12-20 05:51:01,121 - INFO - Pause de 10 secondes
+2024-12-20 05:51:11,125 - INFO - Lancement de l'enregistrement pour souklevivi_gemy.
+2024-12-20 05:51:11,136 - INFO - L'enregistrement du live de souklevivi_gemy a commencé (PID: 26).
+2024-12-20 05:51:11,138 - INFO - Pause de 10 secondes
+2024-12-20 05:51:21,139 - INFO - Lancement de l'enregistrement pour eza_choco8.
+2024-12-20 05:51:21,144 - INFO - L'enregistrement du live de eza_choco8 a commencé (PID: 27).
+2024-12-20 05:51:21,145 - INFO - Pause de 10 secondes
+2024-12-20 05:51:31,146 - INFO - Lancement de l'enregistrement pour pagbodjan.
+2024-12-20 05:51:31,155 - INFO - L'enregistrement du live de pagbodjan a commencé (PID: 28).
+2024-12-20 05:51:31,156 - INFO - Pause de 10 secondes
+2024-12-20 05:51:41,157 - INFO - Lancement de l'enregistrement pour ghettovi23.
+2024-12-20 05:51:41,162 - INFO - L'enregistrement du live de ghettovi23 a commencé (PID: 29).
+2024-12-20 05:51:41,163 - INFO - Pause de 10 secondes
+2024-12-20 05:51:51,167 - INFO - Lancement de l'enregistrement pour togbevikpesse2.
+2024-12-20 05:51:51,170 - INFO - L'enregistrement du live de togbevikpesse2 a commencé (PID: 30).
+2024-12-20 05:51:51,171 - INFO - Pause de 10 secondes
+2024-12-20 05:52:01,174 - INFO - Fin du cycle. Pause avant la prochaine vérification.
+2024-12-20 05:54:15,185 - INFO - Début d'un cycle de surveillance...
+2024-12-20 05:54:15,190 - INFO - Lancement de l'enregistrement pour raoul.le.blanc274.
+2024-12-20 05:54:15,200 - INFO - L'enregistrement du live de raoul.le.blanc274 a commencé (PID: 31).
+2024-12-20 05:54:15,201 - INFO - Pause de 10 secondes
+2024-12-20 05:54:25,204 - INFO - Lancement de l'enregistrement pour aristolebledardaklaaa.
+2024-12-20 05:54:25,211 - INFO - L'enregistrement du live de aristolebledardaklaaa a commencé (PID: 32).
+2024-12-20 05:54:25,212 - INFO - Pause de 10 secondes
+2024-12-20 05:54:35,214 - INFO - Lancement de l'enregistrement pour hodakotv.
+2024-12-20 05:54:35,226 - INFO - L'enregistrement du live de hodakotv a commencé (PID: 33).
+2024-12-20 05:54:35,227 - INFO - Pause de 10 secondes
+2024-12-20 05:54:45,229 - INFO - Lancement de l'enregistrement pour souklevivi_gemy.
+2024-12-20 05:54:45,238 - INFO - L'enregistrement du live de souklevivi_gemy a commencé (PID: 34).
+2024-12-20 05:54:45,240 - INFO - Pause de 10 secondes
+2024-12-20 05:54:55,243 - INFO - Lancement de l'enregistrement pour eza_choco8.
+2024-12-20 05:54:55,249 - INFO - L'enregistrement du live de eza_choco8 a commencé (PID: 35).
+2024-12-20 05:54:55,250 - INFO - Pause de 10 secondes
+2024-12-20 05:55:05,252 - INFO - Lancement de l'enregistrement pour pagbodjan.
+2024-12-20 05:55:05,256 - INFO - L'enregistrement du live de pagbodjan a commencé (PID: 36).
+2024-12-20 05:55:05,257 - INFO - Pause de 10 secondes
+2024-12-20 05:55:15,260 - INFO - Lancement de l'enregistrement pour ghettovi23.
+2024-12-20 05:55:15,271 - INFO - L'enregistrement du live de ghettovi23 a commencé (PID: 37).
+2024-12-20 05:55:15,271 - INFO - Pause de 10 secondes
+2024-12-20 05:55:25,274 - INFO - Lancement de l'enregistrement pour togbevikpesse2.
+2024-12-20 05:55:25,282 - INFO - L'enregistrement du live de togbevikpesse2 a commencé (PID: 38).
+2024-12-20 05:55:25,284 - INFO - Pause de 10 secondes
+2024-12-20 05:55:35,286 - INFO - Fin du cycle. Pause avant la prochaine vérification.

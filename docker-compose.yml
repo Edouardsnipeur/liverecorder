@@ -1,0 +1,10 @@
+services:
+  tiktok-recorder:
+    image: sepopo/tiktok-live-recorder:latest  # Remplacez par l'image correcte
+    container_name: tiktok-live-recorder
+    volumes:
+      - /Users/ejakson/tikrecord:/app/movies
+      - /Users/ejakson/live-detector/actif.txt:/app/actif.txt       # Si vous avez des fichiers de configuration
+    environment:
+      - CHECK_INTERVAL=60           # Exemple de variable d'environnement
+    command: python3 automate.py    # Commande pour démarrer le script
