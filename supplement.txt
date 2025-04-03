@@ -1,0 +1,6 @@
+Empecher la conversion automatique a la fin de l'enregistrement
+
+Mise en commentaire de cette instruction dans core/tiktokbot.py
+        """
+        VideoManagement.convert_flv_to_mp4(output)
+        """

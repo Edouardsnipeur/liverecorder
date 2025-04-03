@@ -115,7 +115,7 @@ def verifier_process_enregistrement(username):
                     derniere_modification = os.path.getmtime(fichier_recent)
                     temps_ecoule = time.time() - derniere_modification
 
-                    if temps_ecoule > 10:  # Plus de 10 secondes sans modification
+                    if temps_ecoule > 60:  # Plus de 60 secondes sans modification
                         logging.warning(
                             f"Le fichier {fichier_recent} n'a pas été modifié depuis {temps_ecoule:.2f} secondes. "
                             f"Arrêt du processus {username}."

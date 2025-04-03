@@ -45,7 +45,8 @@ def main():
             user=args.user,
             room_id=args.room_id,
             duration=args.duration,
-            cookies=cookies
+            telegram=args.telegram,
+            cookies=cookies,
         ).run()
 
     except ArgsParseError as ex:

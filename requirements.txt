@@ -1,5 +1,7 @@
-requests
 argparse
-ffmpeg-python
 distro
+ffmpeg-python
+pyrogram
+requests
+TgCrypto
 psutil
